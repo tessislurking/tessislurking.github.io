@@ -5,6 +5,16 @@
     body {
         text-align: center;
     }
+    h1 {
+    text-color: teal;
+    fontfamily: "Cambria";
+    font-size: 20px;
+    }
+    p {
+    text-color: teal;
+    fontfamily: "Cambria";
+    fontsize: 12px;
+    }
 </style>
 </head>
 <body>
